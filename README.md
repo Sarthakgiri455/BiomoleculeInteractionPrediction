@@ -15,3 +15,5 @@ This project aims to predict biomolecular interactions using **Graph Neural Netw
 - Diseases
 - Drugs
 
+## Dataset sources 
+- STRING
